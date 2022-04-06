@@ -1,1 +1,6 @@
-.idea/
+.idea
+.idea/workspace.xml
+.idea/vp.iml
+.idea/vcs.xml
+.idea/php.xml
+.idea/modules.xml
